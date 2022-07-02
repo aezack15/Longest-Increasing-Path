@@ -1,5 +1,5 @@
 # Longest-Increasing-Path
-Given an m x n integers matrix, returns the length of the longest increasing path in matrix.
+Given an M x N integers matrix, returns the length of the longest increasing path in matrix.
 
 ## Installation and Execution
 Requirements: ```javac``` and ```jar```  
