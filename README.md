@@ -3,8 +3,8 @@ Given an M x N integers matrix, returns the length of the longest increasing pat
 
 ## Installation and Execution
 Requirements: ```javac``` and ```jar```  
-Compile: javac longestIncreasingPath.java  
-Execute: java longestIncreasingPath  
+Compile: ```javac longestIncreasingPath.java```  
+Execute: ```java longestIncreasingPath```  
 
 ### Misc
 This problem comes from the "LeetCode" challenges: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
